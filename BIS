@@ -1,18 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
 
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- USJ logo -->
+  <!-- Outer circle -->
+  <circle cx="100" cy="100" r="80" fill="#e60012" />
 
-  <!-- Navy blue background -->
-  <rect width="100%" height="100%" fill="#001F3F"/>
+  <!-- Inner shapes -->
+  <ellipse cx="100" cy="100" rx="60" ry="70" fill="#fff" />
+  <path d="M85 40 L115 40 L100 70 Z" fill="#000" />
 
-  <!-- Book icon -->
-  <path fill="#FFF" d="M50 120h100v50H50z"/>
-  <path fill="#FFF" d="M75 20h50v100H75z"/>
-
-  <!-- Cross icon -->
-  <path fill="#FFF" d="M30 70h40v20H30z"/>
-  <path fill="#FFF" d="M50 50h20v40H50z"/>
-
-  <!-- Text: BIS -->
-  <text x="70" y="160" font-family="Arial, sans-serif" font-size="30" fill="#FFF">BIS</text>
+  <!-- Text -->
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="20" fill="#000">USJ Osaka yee</text>
 
 </svg>
